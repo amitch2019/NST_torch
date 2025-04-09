@@ -43,7 +43,7 @@ Here are examples of what this app can do:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/neural-style-transfer-app.git
+git clone git@github.com:amitch2019/NST_torch.git
 cd neural-style-transfer-app
 ```
 
